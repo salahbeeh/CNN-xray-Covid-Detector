@@ -25,7 +25,7 @@ The virus unfold from town to city and from one country to a different resulting
 
 COVID-19 can be transmitted through metastasis droplets that are exhaled or secreted by infected persons. Coronaviruses invade the lung’s alveoli (an organ answerable for exchange of O2 and CO2), thereby inflicting pneumonia. The symptoms of COVID-19 embrace dry cough, fatigue, fever, septic shock, organ failure, anorexia, dyspnea, myalgias, phlegm secretion severe pneumonia, acute respiratory distress syndrome (ARDS), etcetera The pandemic caused by SAR-CoV-2 is consider deadly even after WHO has approved some  vaccines.
 
-![metrics](https://miro.medium.com/max/1000/1*fxiTNIgOyvAombPJx5KGeA.png)
+
 
 My personal **motivation** is to contribute some ideas to help detect such virus especially using x-rays and CL which is available and less costly compared to blood tests 
 
@@ -104,4 +104,4 @@ This model can detect positive Covid x-rays from normal ones
 ## Evaluation Metrics
 Generating a confusion matrix, for summarizing the performance of a classification algorithm. Classification accuracy alone can be misleading if you have an unequal number of observations in each class or if you have more than two classes in your dataset. Calculating a confusion matrix can give you a better idea of what your classification model is getting right and what types of errors it is making. It gives us insight not only into the errors being made by a classifier but more importantly the types of errors that are being made.
 
-
+![metrics](https://miro.medium.com/max/1000/1*fxiTNIgOyvAombPJx5KGeA.png)

@@ -25,6 +25,8 @@ The virus unfold from town to city and from one country to a different resulting
 
 COVID-19 can be transmitted through metastasis droplets that are exhaled or secreted by infected persons. Coronaviruses invade the lung’s alveoli (an organ answerable for exchange of O2 and CO2), thereby inflicting pneumonia. The symptoms of COVID-19 embrace dry cough, fatigue, fever, septic shock, organ failure, anorexia, dyspnea, myalgias, phlegm secretion severe pneumonia, acute respiratory distress syndrome (ARDS), etcetera The pandemic caused by SAR-CoV-2 is consider deadly even after WHO has approved some  vaccines.
 
+![metrics](https://miro.medium.com/max/1000/1*fxiTNIgOyvAombPJx5KGeA.png)
+
 My personal **motivation** is to contribute some ideas to help detect such virus especially using x-rays and CL which is available and less costly compared to blood tests 
 
 The link to my data source is:
